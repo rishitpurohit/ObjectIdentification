@@ -1,0 +1,25 @@
+a{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+a{
+    background-color: aquamarine;
+    color: antiquewhite;
+}
+button2{
+padding: 30px;
+
+}
+body{
+    background-color: blue;
+    color: white;
+    text-align: center;
+
+}
+canvas{
+    background-color: blueviolet;
+    border-style: ridge;
+    border-width:10px;
+    border-radius: 10px;
+}
