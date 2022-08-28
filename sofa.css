@@ -22,4 +22,5 @@ canvas{
     border-style: ridge;
     border-width:10px;
     border-radius: 10px;
+   margin-left: 400px;
 }
